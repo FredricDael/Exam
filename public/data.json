@@ -1,0 +1,38 @@
+[
+    {
+        "ID": 1,
+        "Title": "One",
+        "Text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+        "Image": "doll.jpg",
+        "Link": "www.google.com",
+        "Icon": "mdi-book-variant",
+        "Color": "red lighten-2"
+    },
+    {
+        "ID": 2,
+        "Title": "Two",
+        "Text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+        "Image": "doll.jpg",
+        "Link": "www.Youtube.com",
+        "Icon": "mdi-message-text",
+        "Color": "purple darken-1"
+    },
+    {
+        "ID": 3,
+        "Title": "Three",
+        "Text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+        "Image": "doll.jpg",
+        "Link": "www.Facebook.com",
+        "Icon": "mdi-flower",
+        "Color": "green lighten-1"
+    },
+    {
+        "ID": 4,
+        "Title": "Four",
+        "Text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries.",
+        "Image": "doll.jpg",
+        "Link": "www.google.com",
+        "Icon": "mdi-food-variant",
+        "Color": "indigo"
+    }
+]
